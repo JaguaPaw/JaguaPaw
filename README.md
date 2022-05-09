@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaguaPaw
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python but know a bit of java. 
-- 💞️ I’m looking for work as a junior until I can prove myself. 
+- 💞️ Looking for work where I can learn more about blockchain tech.
 - 📫 How to reach me email tshepojhb@gmail.com. 
 
 <!---
